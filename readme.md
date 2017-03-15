@@ -24,7 +24,9 @@ Gabardo, Ademir Cristiano. 2017. Laravel para Ninjas. Edited by Rubens Prates. V
 Estilo IEEE<br/>
 [1] A. C. Gabardo, Laravel para Ninjas, vol. 1, R. Prates, Ed., São Paulo, SP: Novatec Editora Ltda., 2017, p. 184.
 
-Obs: nesse repositóio você encontra o arquivo <b>gabardoLaravel2017.bib</b> para uso em programas de referências.
+Obs: nesse repositóio você encontra o arquivo <b><a href="https://github.com/agabardo/ola-mundo/blob/master/gabardoLaravel2017.bib">gabardoLaravel2017.bib</a></b> para uso em programas de referências.
+
+<a href="https://books.google.com.au/books?id=ALVWDgAAQBAJ&lpg=PA4&hl=pt-BR&pg=PA4#v=onepage&q&f=false">Preview do livro do Google Books</a>
 
 # Sobre este repositório
 <p>Esse repositório contém exemplos mostrados no livro Laravel para ninjas, Novatec, 2017 - ISBN: 978-85-7522-550-9. Autor: Ademir Cristiano Gabardo (Chris). Antes de clonar ou fazer o download do repositório leia as instruções de instalação. Para mais detalhes sobre o livro visite o seguinte <a href='https://novatec.com.br/autores/gabardo.php'>link</a>.<br/>
