@@ -45,19 +45,23 @@ Ao portar o mesmo projeto para a versão 5.3.X não enfrentei nenhum tipo de pro
 Antes de fazer o fork do projeto leia as notas de instalação nesse documento.
 
 ## Screenshots do projeto
-<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/master/public/img/imagens-github/deploy-amazon.jpg" width="95%" alt=""/>
-<img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/desktop.jpg" width="95%" alt=""/>
+<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/master/public/img/imagens-github/deploy-amazon.jpg" width="95%" alt=''/>
+<img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/desktop.jpg" width="95%" alt=''/>
 <br/>
-<img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/mobile-inspection.jpg" width="95%" alt=""/>
+<img src="https://raw.githubusercontent.com/agabardo/olaMundo/master/public/img/imagens-github/mobile-inspection.jpg" width="95%" alt=''/>
+<br/>
 # Instalação
 Atenção! Não faça simplesmente o download dos arquivos do repositório para uma pasta local, isso não irá funcionar.
 Para instalar corretamente o projeto deste repositório siga os passos do Capítulo 4 do livro: Laravel para Ninjas, de Ademir Gabardo.
 # Laravel PHP Framework
-[![Build Status]](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads]](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version]](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version]](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License]](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
 
 Laravel é um framework para construção de aplicações web com sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente satisfatório. Laravel remove tarefas chatas do desenvolvimento facilitando a execução de tarefas comuns usadas na maioria dos projetos da web, como autenticação, roteamento, sessões, filas e armazenamento em cache.
 
